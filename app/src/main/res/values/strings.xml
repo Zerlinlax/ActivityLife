@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ActivityLife</string>
+    <string name="another">AnotherActivity</string>
+    <string name="DialogActivity">DialogActivity</string>
+    <string name="dialog">Dialog</string>
+    <string name="ComeBack">帰りましょう</string>
+    <string name="Date">这是传输过来的数据！</string>
+    <string name="edit_text">EditText</string>
+    <string name="name">请输入您的姓名:</string>
+    <string name="nameJ">君の名</string>
+    <string name="OK">确定</string>
+    <string name="dialog_activity">这是一个DialogActivity</string>
+</resources>
